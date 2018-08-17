@@ -163,10 +163,10 @@ fabric.properties
 
 # Editor-based Rest Client
 .idea/httpRequests
-.idea/terminal.xml
+
+# Extra 
 .idea/misc.xml
 .idea/benmurray-cv.iml
 .idea/modules.xml
 .idea/terminal.xml
 .idea/vcs.xml
-.idea/terminal.xml
