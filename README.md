@@ -1,2 +1,2 @@
-# benmurray-cv
-Source code for a django project to produce a web site cv for myself. 
+# Ben Murray's CV 
+This repository contains the source code to produce a website which shall serve as a CV for myself, Ben Murray.
